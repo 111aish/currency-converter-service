@@ -14,6 +14,6 @@ fi
 
 # Run dotnet watch
 echo "Starting dotnet run --watch..."
-cd {{NAMESPACE}}
+cd CurrencyService
 dotnet run --watch
 

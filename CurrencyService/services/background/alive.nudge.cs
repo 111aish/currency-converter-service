@@ -1,9 +1,9 @@
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using CLOOPS.microservices.Extensions;
-using {{NAMESPACE}};
+using CurrencyService;
 
-namespace {{NAMESPACE}}.services.background
+namespace CurrencyService.services.background
 {
     /// <summary>
     /// Background service that just logs every 30 seconds to indicate that the service is alive

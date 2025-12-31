@@ -1,6 +1,6 @@
 using Microsoft.Extensions.Logging;
 
-namespace {{NAMESPACE}}.services;
+namespace CurrencyService.services;
 
 public class EchoService
 {

@@ -1,4 +1,4 @@
-namespace {{NAMESPACE}}.services;
+namespace CurrencyService.services;
 
 public class AppSettings : BaseAppSettings
 {

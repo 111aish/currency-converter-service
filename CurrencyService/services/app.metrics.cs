@@ -1,6 +1,6 @@
 using System.Diagnostics.Metrics;
 
-namespace {{NAMESPACE}}.services;
+namespace CurrencyService.services;
 
 public class AppMetricsService
 {
@@ -18,7 +18,7 @@ public class AppMetricsService
         _meter = new Meter("AppMetrics");
 
         someCount = _meter.CreateCounter<long>(
-            "{{NAMESPACE}}_some_count",
+            "CurrencyService_some_count",
             "count",
             "Counts the number of some events"
         );
