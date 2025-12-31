@@ -73,12 +73,6 @@ currency-converter-service/
 └── README.md                 # Documentation
 
 
-
-📄 Submission
-Once tested, submit your repo link here:
-👉 https://forms.office.com/r/G7RDXfppST
-
-
 ---
 
 
